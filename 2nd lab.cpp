@@ -41,6 +41,7 @@ int main()
 	}
 
 	system("pause");
+	// and here how we solve this equation using c++
 
 	return 0;
 
